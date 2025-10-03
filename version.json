@@ -1,6 +1,6 @@
 {
-  "pre-plan-code":"1.0.0",
-  "cloudability":"1.0.0",
-  "wiz":"1.4.9"
+  "terraform-integration-post-plan-code":"v1.0.0",
+  "cloudability":"v0.0.1",
+  "wiz":"v1.4.9"
 
 }
